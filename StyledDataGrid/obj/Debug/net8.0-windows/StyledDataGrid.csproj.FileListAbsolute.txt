@@ -1,0 +1,16 @@
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\bin\Debug\net8.0-windows\StyledDataGrid.exe
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\bin\Debug\net8.0-windows\StyledDataGrid.deps.json
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\bin\Debug\net8.0-windows\StyledDataGrid.runtimeconfig.json
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\bin\Debug\net8.0-windows\StyledDataGrid.dll
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\bin\Debug\net8.0-windows\StyledDataGrid.pdb
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.Form1.resources
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.csproj.GenerateResource.cache
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.AssemblyInfoInputs.cache
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.AssemblyInfo.cs
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.dll
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\refint\StyledDataGrid.dll
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.pdb
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\StyledDataGrid.genruntimeconfig.cache
+C:\Users\bradd\source\repos\StyledDataGrid\StyledDataGrid\obj\Debug\net8.0-windows\ref\StyledDataGrid.dll
